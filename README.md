@@ -17,6 +17,7 @@ In these screenshots you can see how my website looks like.
 
 ## Deployment Link
 
+https://mariaortiz53.github.io/Maria-Ortiz-Portfolio/
 
 ## Credits
 Maria Ortiz
